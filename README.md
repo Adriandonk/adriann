@@ -1,6 +1,6 @@
 # ¡Hola! Soy Adrian
 
-Soy un estudiante de Universidad en la carrera de ciencia de datos, me gusta la carrera y la tecnologia. Trabajo en Starbucks desde hace año y medio.
+Soy un estudiante de Universidad en la carrera de ciencia de datos, me gusta la carrera y la tecnologia.
 
 ##Puedes encontrarme en:
 -[Instagram](https://www.instagram.com/adriandonkv/)
